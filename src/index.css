@@ -1,0 +1,15 @@
+html, body{
+  background-image: url('./assets/Zest\ Matrix.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  background-position: center;
+  height: 100%;
+ 
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
